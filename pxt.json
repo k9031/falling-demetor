@@ -1,5 +1,5 @@
 {
-    "name": "Falling Duck - Starter",
+    "name": "Falling Duck ",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -11,17 +11,18 @@
         "images.g.jres",
         "images.g.ts",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "init.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.27",
+        "target": "1.4.30",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
